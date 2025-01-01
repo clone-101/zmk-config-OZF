@@ -34,4 +34,4 @@ This project was inspired by [Christian Selig](https://www.youtube.com/@cselig)'
 
 ### Keycap stl files
 
-- [**evils**](https://www.printables.com/@evils): [XDA keycaps (1u - 2.5u)](https://www.printables.com/model/396950-xda-keycap-set/files)
+The keycap stl files were created by [**evils**](https://www.printables.com/@evils): [XDA keycaps (1u - 2.5u)](https://www.printables.com/model/396950-xda-keycap-set/files)
