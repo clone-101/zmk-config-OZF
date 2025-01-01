@@ -28,6 +28,10 @@ this project is license under the GNU General Public License - see the COPYING f
 
 ## Acknowledgements
 
+### Inspiration
+
+This project was inspired by [Christian Selig](https://www.youtube.com/@cselig)'s video [I Built my Dream Keyboard From Absolute Scratch](https://www.youtube.com/watch?v=7UXsD7nSfDY&t=820s).
+
 ### Keycap stl files
 
-- [**OWLicious**](https://www.printables.com/@OWLicious): [XDA keycaps (1u - 2.75u)](https://www.printables.com/model/828131-xda-keycaps-for-dust-proof-stems-remix/files)
+- [**evils**](https://www.printables.com/@evils): [XDA keycaps (1u - 2.5u)](https://www.printables.com/model/396950-xda-keycap-set/files)
