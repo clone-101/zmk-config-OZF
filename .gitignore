@@ -1,0 +1,7 @@
+# Compiled source
+*.class
+*.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
